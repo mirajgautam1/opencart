@@ -37,15 +37,15 @@ To install and run opencart on windows, following steps need to be performed:
    
 Below is the description of all the included documents of this opencart manual testing repository.
 
-Functional Requirement Specification: This document explains what a system or software is supposed to from a user or business perspective.
+Functional Requirement Specification.docx: This document explains what the opencart system is supposed to do from a user or business perspective.
 
-Test Plan: It is a structured document which explains how testing will be carried out for a project.
+Test Plan.docx: It is a structured document which explains how testing will be carried out for a project. This document provides an overview of the testing strategy, objectives, scope, and schedule for testing the software.
 
-Test Scenarios: It includes high level description of what you want to test in an application.
+Test Scenarios.xlsx: This document describes various situations and conditions that needs to be tested in opencart software to ensure it correct functionality. It includes high level description of what you want to test in an application.
 
-Test Cases: They are detailed step-by-step instructions used to verify whether a specific feature of a software application is working correctly or not.
+Test Cases: They are detailed step-by-step instructions used to verify whether a specific feature of a software application is working correctly or not. Numerous test cases corresponding to particular scenarios are executed to find out possible bugs in opencart application.
 
-Bug Report: This document contains the description of all the bugs found after the execution of test cases by a tester.
+Bug Report: This document contains the description of all the bugs found after the execution of test cases by a tester. Each bug is given a Bug ID and this document also includes the steps to reproduce a particular bug along with any necessary screenshort or clips. These bugs are then reported to the developer.
 
 Requirement Traceability Matrix: A Requirement Traceability Matrix is a document used in software testing to map and track requirements with their corresponding test cases.
 
