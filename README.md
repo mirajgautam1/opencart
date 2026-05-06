@@ -34,6 +34,9 @@ To install and run opencart on windows, following steps need to be performed:
     Username: admin
     Password: admin
 
+
+   
+
    
 Below is the description of all the included documents of this opencart manual testing repository.
 
